@@ -2,9 +2,9 @@ Hi 👋, I'm Justin Lee, currently a MSCS student @ Northeastern University, gra
 In 2022, I've interned at Wayfair and Intuit as a software engineer intern. I am a quick learner, and 
 adept in skills such as:
 <br/><br/>
-✨ Frontend: React, Typescript, Javascript, jQuery, Graphql
+✨ Frontend: React, Typescript / Javascript, jQuery, Graphql
 <br/>
-✨ Backend: Python, Java, Django, Spark, Spring/Springboot
+✨ Backend: Python, Java, Django, Flask, Spark, Spring/Springboot
 <br/>
 ✨ Other: Bash, Vim, R, data analytics, statistics, data visualization
 <br/>
